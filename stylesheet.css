@@ -1,0 +1,26 @@
+        
+        html {
+            font-family: 'Cabin', sans-serif;
+            background-color: rgb(224, 224, 224);
+        }
+
+        .box {
+            border: 1px solid black;
+            margin: 5px;
+        }
+
+        .box h3,p {
+            margin: 10px;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        #luna {
+            border: 1px solid black;
+            border-radius: 50%;
+        }
+
+        
